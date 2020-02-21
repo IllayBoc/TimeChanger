@@ -1,0 +1,11 @@
+appdirs==1.4.3
+distlib==0.3.0
+filelock==3.0.12
+Pillow==7.0.0
+pyaes==1.6.1
+pyasn1==0.4.8
+pytz==2019.3
+rsa==4.0
+six==1.14.0
+Telethon==1.10.10
+virtualenv==20.0.5

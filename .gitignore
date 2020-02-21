@@ -1,0 +1,8 @@
+# folders
+.idea/
+.venv/
+__pycache__/
+
+# files
+*.iml
+.gitignore
